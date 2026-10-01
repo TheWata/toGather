@@ -1,6 +1,5 @@
 # 🌐 toGather — Rede Social Fechada e Descentralizada (Ecossistema Nexus)
 
-> **Atividade Prática de Faculdade — Engenharia de Software / Desenvolvimento Web Full-Stack**  
 > Aplicação completa com **Back-End REST API (Node.js + Express)** e **Front-End SPA (React + Vite + Tailwind CSS)**.
 
 ---
