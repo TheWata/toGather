@@ -60,7 +60,7 @@ O **toGather** é uma rede social intimista e fechada, inspirada no ecossistema 
 - Gerenciador de pacotes `npm`
 
 ### 1. Iniciar o Back-End (Porta 3001)
-Na raiz do projeto (`TrabalhoMinero`):
+Na raiz do projeto:
 ```bash
 npm install
 npm start
